@@ -1,0 +1,11 @@
+Tasks 4-7: The rest of the tasks will be to create a prototype of your game that you did the pitch and the worldbuilding exercise on, in the game engine of your choosing (either Unreal or Unity). If you're not familiar with the engine, go watch some tutorials on YouTube. Try to find tutorials that fit the type of game that you want to make, so for example if you're making a platformer, don't watch tutorials on puzzle games. You can do this along with making your prototype. These are the steps for what you should have for the prototype: 
+
+- Make a functioning player character with basic movements. You can use the default animations that some templates have, otherwise no animation is fine, as long as the PC can move around.
+
+- Make a level blockout of your prototype that the PC can move in.
+
+- Implement at least 3 core mechanics (weapons, enemies, health, collectibles, etc.), making the prototype playable.
+
+You can choose to present the prototype at each step (for easier tracking of hours) or do them all at once and present the full prototype at the end. Tutorials + player character will count for 17 hours. Level blockout is 10 hours, and finally core mechanics will be 15 hours. The last couple hours are reserved for review and in case you need more time to work on it. 
+
+Note that the full prototype should have a full game loop: Main menu > core gameplay > end condition > replay / main menu.
